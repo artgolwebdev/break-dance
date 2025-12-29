@@ -35,7 +35,7 @@ The application will open at `http://localhost:3000`
 npm run build
 ```
 
-The production build will be in the `build` directory.
+The production build will be in the `dist` directory.
 
 ## 🛠️ Tech Stack
 
@@ -76,6 +76,13 @@ The production build will be in the `build` directory.
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
+
+## 🌐 Live Site
+
+The project is automatically deployed to GitHub Pages:
+- **Live URL**: [https://artgolwebdev.github.io/break-dance/](https://artgolwebdev.github.io/break-dance/)
+
+Deployment is automated via GitHub Actions on every push to the `main` branch.
 
 ## 🔗 Links
 
